@@ -1,10 +1,12 @@
 # Hello!
 
-I maintain [these crates](CRATES.md), and [not these anymore](DROPPED.md).
+I maintain [these crates](crates.md), and [not these anymore](dropped.md).
 
-## Completed Rust Libraries (1.0)
+You can see my own personal list of "blessed" crates [here](blessed.md).
 
- - [`whoami 1.0`](https://crates.io/crates/whoami) - Retrieve the current user and environment
+## Completed Rust Libraries (>= 1.0.0)
+
+ - [`whoami v1`](https://crates.io/crates/whoami) - Retrieve the current user and environment
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldaronlau&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldaronlau&theme=github_dark)
