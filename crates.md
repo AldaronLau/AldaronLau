@@ -24,13 +24,22 @@ Async runtime with fully integrated multimedia and GUI support.
 ## [`cala_core`](https://crates.io/crates/cala_core)
 Low-level platform glue for Cala.
 
+## [`cargo-ardaku`](https://crates.io/crates/cargo-ardaku)
+Cargo plugin for testing & building daku wasm files and running in ardaku.
+
 ## [`cargo-cala`](https://crates.io/crates/cargo-cala)
 Cargo plugin for testing & building release packages that depend on cala and/or
 wasm.
 
+## [`cargo-daku`](https://crates.io/crates/cargo-daku)
+Cargo plugin for testing & building daku wasm files.
+
 ## [`caved`](https://crates.io/crates/caved)
 Codecs for Audio and Video Encoding and Decoding, static bindings to libav from
 ffmpeg. Some re-implemented in Rust. Goal is for all Rust.
+
+## [`clot`](https://crates.io/crates/clot)
+An opinionated mini argument parsing library that doesn't use macros.
 
 ## [`daku`](https://crates.io/crates/daku)
 Daku is a system interface API similar to WASI with different goals.  The crate
@@ -44,6 +53,9 @@ Asynchronous library for interfacing with MIDI devices.
 
 ## [`dl_api`](https://crates.io/crates/dl_api)
 Load dynamic (shared object) libraries from Rust.
+
+## [`event_iterator`](https://crates.io/crates/event_iterator)
+Asynchronous lending iterator.
 
 ## [`faux_alloc`](https://crates.io/crates/faux_alloc)
 A fake 'allocator'.
@@ -72,6 +84,9 @@ Send and receive asynchronous keyboard events.
 ## [`lookit`](https://crates.io/crates/lookit)
 Rust crate to asynchronously get device connection events.
 
+## [`marksad`](https://crates.io/crates/marksad)
+Markdown parser library with all the extensions.
+
 ## [`nucleide`](https://crates.io/crates/nucleide)
 A crate to manipulate custom sections of a WebAssembly module to view/edit
 application metadata.
@@ -79,6 +94,12 @@ application metadata.
 ## [`one_alloc`](https://crates.io/crates/one_alloc)
 A custom allocator that allows a singular allocation of a specific size known
 ahead of time.
+
+## [`p-chan`](https://crates.io/crates/p-chan)
+Multimedia (Audio, Raster) Channel Newtypes and Conversions.
+
+## [`parsenic`](https://crates.io/crates/parsenic)
+A simple no-std/no-alloc I/O and parsing crate.
 
 ## [`pasts`](https://crates.io/crates/pasts)
 Minimal and simpler alternative to the futures crate.
@@ -111,8 +132,14 @@ Vector graphics file format.
 ## [`scour`](https://crates.io/crates/scour)
 A fuzzy search algorithm.
 
+## [`shared_cell`](https://crates.io/crates/shared_cell)
+Interior mutability between concurrent tasks on the same thread.
+
 ## [`smelling_salts`](https://crates.io/crates/smelling_salts)
 Abstraction over OS APIs to handle asynchronous device waking.
+
+## [`specializer`](https://crates.io/crates/specializer)
+Limited safe specialization on stable Rust with builder-like pattern.
 
 ## [`splotch`](https://crates.io/crates/splotch)
 Plot data in footile.
@@ -123,8 +150,17 @@ Platform-agnostic asynchronous gamepad, joystick and flighstick library.
 ## [`stronghold`](https://crates.io/crates/stronghold)
 Store program/save files in a unique folder across operating systems.
 
+## [`swarf`](https://crates.io/crates/swarf)
+Abstraction over WebAssembly engines.
+
+## [`traitful`](https://crates.io/crates/traitful)
+A collection of helper macros for trait patterns.
+
 ## [`twang`](https://crates.io/crates/twang)
 Library for pure Rust advanced audio synthesis.
+
+## [`typeful`](https://crates.io/crates/typeful)
+A collection of helper derive macros for type patterns.
 
 ## [`unicode-columns`](https://crates.io/crates/unicode-columns)
 Column count and column truncation on strings.
@@ -137,6 +173,9 @@ WASI Terminal Environment API.
 
 ## [`wavy`](https://crates.io/crates/wavy)
 Asynchronous cross-platform real-time audio recording & playback.
+
+## [`web_panic_hook`](https://crates.io/crates/web_panic_hook)
+Panic handling in the browser (wasm).
 
 ## [`webcam`](https://crates.io/crates/webcam)
 Asynchronous cross-platform webcam capture library.
@@ -153,3 +192,6 @@ rust replacement for `whoami` and `hostname` with added features.
 
 ## [`window`](https://crates.io/crates/window)
 Minimal Rust code for creating a window with native headerbars.
+
+## [`zoitei`](https://crates.io/crates/zoitei)
+Zoitei alphabet conversions.

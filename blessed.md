@@ -7,6 +7,13 @@ develop it by myself (pretty strict).
 
 # Stable Crates (>= 1.0.0)
 
+## Rust Patterns
+
+### [`specializer`](https://docs.rs/specializer) 🩷
+
+ - Specialize on specific types in generic contexts using the builder pattern
+   (specialization)
+
 ## Computer Information
 
 ### [`whoami`](https://docs.rs/whoami) 🩷
