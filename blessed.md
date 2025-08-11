@@ -43,7 +43,19 @@ develop it by myself (pretty strict).
 
  - A cross-platform graphics and compute library based on WebGPU
 
+## Web
+
+### [`webbrowser`](https://docs.rs/webbrowser)
+
+ - Open URLS in a web browser
+
 # Unstable Crates (< 1.0.0)
+
+## Web
+
+### [`rookie`](https://docs.rs/rookie)
+
+ - Load web browser cookies
 
 ## HTML
 
