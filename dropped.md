@@ -1,13 +1,21 @@
 # Dropped Crates
-Send me an email at aldaronlau@gmail.com if you want to use these names.
 
-## [awi](https://crates.io/crates/awi) - Available
-Window creation crate - Replacement: [window](https://crates.io/crates/window)
-crate
+Send me an email at <aldaronlau@gmail.com> if you want to use these names.
 
 ## [ami](https://crates.io/crates/ami) - Available
+
 Computer graphics math crate - Alternative:
 [cgmath](https://crates.io/crates/cgmath)
+
+## [asi\_vulkan](https://crates.io/crates/asi_vulkan) - Available
+
+Render graphics and GPU calculations - Alternative:
+[wgpu-hal](https://crates.io/crates/wgpu-hal)
+
+## [awi](https://crates.io/crates/awi) - Available
+
+Window creation crate - Replacement: [window](https://crates.io/crates/window)
+crate
 
 ----
 
@@ -64,10 +72,6 @@ Audio & video structures, plus encoder & decoder traits - Replacement:
 A library for reading and writing DOCF - Replacement WIP
 
 ## [asi_opengl](https://crates.io/crates/asi_opengl) - Available
-Render graphics and GPU calculations - Alternative:
-[wgpu-hal](https://crates.io/crates/wgpu-hal)
-
-## [asi_vulkan](https://crates.io/crates/asi_vulkan) - Available
 Render graphics and GPU calculations - Alternative:
 [wgpu-hal](https://crates.io/crates/wgpu-hal)
 
