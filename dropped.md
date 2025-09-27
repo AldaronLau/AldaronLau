@@ -7,6 +7,11 @@ Send me an email at <aldaronlau@gmail.com> if you want to use these names.
 Computer graphics math crate - Alternative:
 [cgmath](https://crates.io/crates/cgmath)
 
+## [asi\_opengl](https://crates.io/crates/asi_opengl) - Available
+
+Render graphics and GPU calculations - Alternative:
+[wgpu-hal](https://crates.io/crates/wgpu-hal)
+
 ## [asi\_vulkan](https://crates.io/crates/asi_vulkan) - Available
 
 Render graphics and GPU calculations - Alternative:
@@ -70,10 +75,6 @@ Audio & video structures, plus encoder & decoder traits - Replacement:
 
 ## [afi_docf](https://crates.io/crates/afi_docf) - Not Yet Available
 A library for reading and writing DOCF - Replacement WIP
-
-## [asi_opengl](https://crates.io/crates/asi_opengl) - Available
-Render graphics and GPU calculations - Alternative:
-[wgpu-hal](https://crates.io/crates/wgpu-hal)
 
 ## [barg](https://crates.io/crates/barg) - Not Available
 A GUI toolkit & 3D graphics renderer - Replacement WIP
