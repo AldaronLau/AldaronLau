@@ -14,6 +14,10 @@ develop it by myself (pretty strict).
  - Specialize on specific types in generic contexts using the builder pattern
    (specialization)
 
+### [`as_repr`](https://docs.rs/as_repr) 🩷
+
+ - Generic safe transmutes in `const` contexts
+
 ## Computer Information
 
 ### [`whoami`](https://docs.rs/whoami) 🩷
