@@ -5,6 +5,9 @@ A list of crates that I am listed as an owner on [crates.io](https://crates.io).
 General-purpose application engine for WebAssembly. Implementation of the Daku
 API.
 
+## [`as_repr`](https://crates.io/crates/as_repr)
+Rust "const" trait (workaround for stable) for safe transmute.
+
 ## [`asm_riscv`](https://crates.io/crates/asm_riscv)
 Rust RISC-V Assembly Encoder / Decoder.
 
@@ -47,6 +50,9 @@ is bindings to the API.
 
 ## [`devout`](https://crates.io/crates/devout)
 A simple cross-platform logging library.
+
+## [`dime`](https://crates.io/crates/dime)
+Daku time types and conversions
 
 ## [`dimi`](https://crates.io/crates/dimi)
 Asynchronous library for interfacing with MIDI devices.
@@ -122,6 +128,9 @@ Macro-free pin projections because why not?
 ## [`pure_cell`](https://crates.io/crates/pure_cell)
 Alternative to GhostCell that provides safe interior mutability via const
 expressions.
+
+## [`ranch`](https://crates.io/crates/ranch)
+Rust ranged integer implementation
 
 ## [`raw_audio`](https://crates.io/crates/raw_audio)
 Audio PCM format encoding/decoding.
