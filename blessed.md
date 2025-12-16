@@ -53,6 +53,12 @@ develop it by myself (pretty strict).
 
  - Open URLS in a web browser
 
+## Network
+
+### [`exponential-backoff`](https://docs.rs/exponential-backoff)
+
+ - Exponential backoff generator with jitter
+
 # Unstable Crates (< 1.0.0)
 
 ## Web
