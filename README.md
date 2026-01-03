@@ -9,6 +9,7 @@ You can see my own personal list of "blessed" crates [here](blessed.md).
  - [`whoami v1`](https://crates.io/crates/whoami) (MSRV 1.40.0) - Retrieve the current user and environment
  - [`specializer v1.0`](https://crates.io/crates/specializer) (MSRV 1.85.0) - Builder-based specialization abstraction
  - [`as_repr v1.2`](https://crates.io/crates/as_repr) (MSRV 1.85.0) - Const trait workaround for safe transmute trait
+ - [`wasite v1.0`](https://crates.io/crates/wasite) (MSRV 1.65.0) - Terminal interface conventions using WASI API abstraction 
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldaronlau&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldaronlau&theme=github_dark)
