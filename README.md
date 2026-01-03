@@ -16,7 +16,6 @@ You can see my own personal list of "blessed" crates [here](blessed.md).
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldaronlau&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldaronlau&theme=github_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldaronlau&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldaronlau&count_private=true&show_icons=true&theme=github_dark)
 
 <!--
 
