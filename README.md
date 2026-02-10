@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Jeryn.  I mostly program with Rust and play with WebAssembly when I can.
+My name is Jeryn.  I primarily program with Rust and play with WebAssembly when I can.
 
 I maintain [these crates](crates.md), and [not these anymore](dropped.md).
 
