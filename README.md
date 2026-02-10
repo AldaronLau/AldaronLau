@@ -8,10 +8,10 @@ You can see my own personal list of "blessed" crates [here](blessed.md).
 
 These are my own personal projects I consider complete;
 
- - [`whoami v2.1`](https://crates.io/crates/whoami) (MSRV 1.75.0) - Retrieve the current user and environment
- - [`specializer v1.0`](https://crates.io/crates/specializer) (MSRV 1.85.0) - Builder-based specialization abstraction
- - [`as_repr v1.3`](https://crates.io/crates/as_repr) (MSRV 1.85.0) - Const trait workaround for safe transmute trait
- - [`wasite v1.0`](https://crates.io/crates/wasite) (MSRV 1.65.0) - Terminal interface conventions using WASI API abstraction 
+ - [`whoami`](https://crates.io/crates/whoami) ![Crates.io](https://img.shields.io/crates/v/whoami) ![Crates.io MSRV](https://img.shields.io/crates/msrv/whoami) - Retrieve the current user and environment
+ - [`specializer`](https://crates.io/crates/specializer) ![Crates.io](https://img.shields.io/crates/v/specializer) ![Crates.io MSRV](https://img.shields.io/crates/msrv/specializer) - Builder-based specialization abstraction
+ - [`as_repr`](https://crates.io/crates/as_repr) ![Crates.io](https://img.shields.io/crates/v/as_repr) ![Crates.io MSRV](https://img.shields.io/crates/msrv/as_repr) - Const trait workaround for safe transmute trait
+ - [`wasite`](https://crates.io/crates/wasite) ![Crates.io](https://img.shields.io/crates/v/wasite) ![Crates.io MSRV](https://img.shields.io/crates/msrv/wasite) - Terminal interface conventions using WASI API abstraction 
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldaronlau&theme=github_dark)
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldaronlau&theme=github_dark)
