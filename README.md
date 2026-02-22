@@ -27,6 +27,10 @@ These are my own personal projects I consider complete;
 [![docs.rs](https://img.shields.io/crates/msrv/whoami)](https://docs.rs/whoami)
 [![crates.io](https://img.shields.io/crates/d/whoami?label=crates.io)](https://crates.io/crates/whoami)  
 
+## Fonts
+
+ - [Vyentei](https://vyentei.org) - A font I made with a focus on ease of reading for accessibility
+
 ---
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldaronlau&theme=github_dark)
