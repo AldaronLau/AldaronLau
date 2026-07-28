@@ -9,6 +9,10 @@ develop it by myself (pretty strict).
 
 ## Rust Patterns
 
+### [`projections`](https://docs.rs/projections) 🩷
+
+ - Safely create pin projections without macros
+
 ### [`specializer`](https://docs.rs/specializer) 🩷
 
  - Specialize on specific types in generic contexts using the builder pattern
@@ -53,20 +57,6 @@ develop it by myself (pretty strict).
 
  - Open URLS in a web browser
 
-## Network
-
-### [`exponential-backoff`](https://docs.rs/exponential-backoff)
-
- - Exponential backoff generator with jitter
-
-# Unstable Crates (< 1.0.0)
-
-## Web
-
-### [`rookie`](https://docs.rs/rookie)
-
- - Load web browser cookies
-
 ## HTML
 
 ### [`hatmil`](https://docs.rs/hatmil)
@@ -78,6 +68,22 @@ develop it by myself (pretty strict).
 ### [`pix`](https://docs.rs/pix)
 
  - Image raster/ pixel format newtypes and coversions
+
+## Network
+
+### [`exponential-backoff`](https://docs.rs/exponential-backoff)
+
+ - Exponential backoff generator with jitter
+
+---
+
+# Unstable Crates (< 1.0.0)
+
+## Web
+
+### [`pookie`](https://docs.rs/pookie)
+
+ - Load web browser cookies
 
 ## Parsing
 
