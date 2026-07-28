@@ -1,4 +1,4 @@
-# Hello! (_Shoishoi!_)
+# Hello! (_Shoiyaca!_)
 
 My name is Jeryn.  I like conlangs, synths, fonts, and icecream.  I primarily program with Rust, and maintain a number of Rust libraries on crates.io.  I also play with WebAssembly when I can.
 
@@ -30,6 +30,10 @@ These are my own personal projects I consider complete;
    [![GitHub](https://img.shields.io/badge/Retrieve%20info%20about%20the%20current%20user%20and%20environment-8A2BE2)](https://github.com/ardaku/whoami)
    [![docs.rs](https://img.shields.io/crates/msrv/whoami)](https://docs.rs/whoami)
    [![crates.io](https://img.shields.io/crates/d/whoami?label=crates.io)](https://crates.io/crates/whoami)  
+
+## Completed Rust Applications (>= 1.0.0)
+
+None yet
 
 ## Fonts
 
