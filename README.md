@@ -1,4 +1,4 @@
-# Hello! (_Shoiyaca!_)
+# Hello! (¡_Shoiyaca_)
 
 My name is Jeryn.  I like conlangs, synths, fonts, and icecream.  I primarily program with Rust, and maintain a number of Rust libraries on crates.io.  I also play with WebAssembly when I can.
 
